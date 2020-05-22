@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-CRUD-React/static/css/main.0685e9b5.chunk.css",
+    "main.js": "/Simple-CRUD-React/static/js/main.cfc63c4d.chunk.js",
+    "main.js.map": "/Simple-CRUD-React/static/js/main.cfc63c4d.chunk.js.map",
+    "runtime-main.js": "/Simple-CRUD-React/static/js/runtime-main.116cd073.js",
+    "runtime-main.js.map": "/Simple-CRUD-React/static/js/runtime-main.116cd073.js.map",
+    "static/js/2.6dc20f9c.chunk.js": "/Simple-CRUD-React/static/js/2.6dc20f9c.chunk.js",
+    "static/js/2.6dc20f9c.chunk.js.map": "/Simple-CRUD-React/static/js/2.6dc20f9c.chunk.js.map",
+    "index.html": "/Simple-CRUD-React/index.html",
+    "precache-manifest.2b034dcd8ba96fa979848aa3c6630b58.js": "/Simple-CRUD-React/precache-manifest.2b034dcd8ba96fa979848aa3c6630b58.js",
+    "service-worker.js": "/Simple-CRUD-React/service-worker.js",
+    "static/css/main.0685e9b5.chunk.css.map": "/Simple-CRUD-React/static/css/main.0685e9b5.chunk.css.map",
+    "static/js/2.6dc20f9c.chunk.js.LICENSE.txt": "/Simple-CRUD-React/static/js/2.6dc20f9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.116cd073.js",
+    "static/js/2.6dc20f9c.chunk.js",
+    "static/css/main.0685e9b5.chunk.css",
+    "static/js/main.cfc63c4d.chunk.js"
+  ]
+}
